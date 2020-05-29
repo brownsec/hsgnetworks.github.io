@@ -7,6 +7,9 @@ automation:
 security:
   name: Security
   description: Security Services Provided by Us!
+contactus:
+  name: Contact Us
+  description: Say Hello!
 #customizing-odin:
 #  name: Customizing Odin
 #  description: Welcome to Odin, time to get started
