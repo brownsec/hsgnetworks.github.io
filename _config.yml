@@ -24,8 +24,8 @@ baseurl: / # the subpath of your site, e.g. /support
 url: https://hsgnetworks.com # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
-use_authors: true #Set this to false to disable showing post authors
+content_type: Home #Define whether this is a knowledge base, help center, or something else
+use_authors: false #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Odin
@@ -35,10 +35,10 @@ subheader: Passionate about providing quality work!
 meta_image: odin-meta.png
 
 # Social Links
-twitter_username: TheTeaGuns
+twitter_username: #
 facebook_page:
-github_username: TeaGuns
-email: m@credd.in
+github_username: #
+email: contact@hsgnetworks.com
 linkedin_page:
 instagram_username: 
 
