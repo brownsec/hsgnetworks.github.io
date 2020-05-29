@@ -4,9 +4,9 @@
 using-subcategories:
   name: Using Subcategories
   description: Learn to use subcategories!
-our-services:
-  name: Our Services
-  description: Welcome to HSG Networks, time to know us!
+security:
+  name: Security
+  description: Security Services Provided by Us!
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
